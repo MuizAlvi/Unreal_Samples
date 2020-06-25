@@ -1,2 +1,2 @@
 # Unreal_Samples
-Game development using Unreal Engine 4
+Game development samples using Unreal Engine 4
